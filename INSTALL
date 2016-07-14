@@ -1,0 +1,9 @@
+Building qmq
+
+See doc/readme-qt.rst for instructions on building qmq-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of qmq.
+
+See doc/build-*.txt for instructions on building qmqd,
+the intended-for-services, no-graphical-interface, reference
+implementation of qmq.
